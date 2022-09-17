@@ -1,7 +1,13 @@
+body{
+    background-color: lightgrey;
+}
 
 .kopsurat {
-    width: 10; 
-    margin: 0;
+    width: 60%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+
 }
 
 .judul{
@@ -18,6 +24,24 @@
     font-size: 15px;
 }
 
+button {
+    background-color:lightgoldenrodyellow;
+    transition: 0.2s;
+    font-style: italic;
+    text-align: center;
+    color: dark;
+    width: 100%;
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: black;
+    letter-spacing: 2px;
+}
+
 @media only screen and (max-width: 360px) {
     body {
         margin: 0;
@@ -25,6 +49,7 @@
     }
     .kopsurat {
         width : 100%;
+        text-align: center;
         padding : 0px;
     }
     .judul {
@@ -47,6 +72,7 @@
     }
     .kopsurat {
         width : 100%;
+        text-align: center;
         padding : 0px;
     }
     .judul {
