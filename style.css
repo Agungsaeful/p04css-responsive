@@ -50,10 +50,7 @@ button:hover{
     
     .kopsurat {
         width : 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
+        padding : 0px;
     }
     .judul {
         font-size: 1rem;
@@ -64,7 +61,8 @@ button:hover{
         font-size: 0.7rem
     }
     .table {
-        margin-left : 0px;
+        width : 100%;
+        padding : 0px;
     }
   }
 
@@ -75,10 +73,7 @@ button:hover{
     }
     .kopsurat {
         width : 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
+        padding : 0px;
     }
     .judul {
         font-size: 1.2rem;
@@ -88,6 +83,7 @@ button:hover{
         font-size: 0.8rem
     }
     .table {
-        margin-left : 5px;
+        width : 100%;
+        padding : 0px;
     }
   }
