@@ -3,7 +3,7 @@ body{
 }
 
 .kopsurat {
-    width: 60%;
+    width: 50%;
     padding: 20px;
     margin: 0 auto;
     background-color: white;
@@ -50,7 +50,10 @@ button:hover{
     
     .kopsurat {
         width : 100%;
-        padding : 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
     .judul {
         font-size: 1rem;
@@ -72,7 +75,10 @@ button:hover{
     }
     .kopsurat {
         width : 100%;
-        padding : 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
     .judul {
         font-size: 1.2rem;
