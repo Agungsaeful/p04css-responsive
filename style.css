@@ -18,7 +18,7 @@ body{
 
 
 .table {
-    width: 90%;
+    width: 95%;
     border-radius: 5px;
     background-color: lightgoldenrodyellow ;
     font-family: 'Times New Roman', Times, serif;
@@ -69,6 +69,7 @@ button:hover{
     .table {
         width : 100%;
         padding : 0px;
+        width: 95%;
     }
   }
 
@@ -94,5 +95,6 @@ button:hover{
     .table {
         width : 100%;
         padding : 0px;
+        width: 95%;
     }
   }
