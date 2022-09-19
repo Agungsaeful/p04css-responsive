@@ -23,8 +23,6 @@ body{
     background-color: lightgoldenrodyellow ;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
-    display: flex;
-    flex-direction: column;
 }
 
 button {
@@ -69,7 +67,7 @@ button:hover{
         font-size: 0.7rem
     }
 
-    h3{
+    .inpo{
         font-size: 14;
         font-family: 'Times New Roman', Times, serif;
         padding: 20px;
