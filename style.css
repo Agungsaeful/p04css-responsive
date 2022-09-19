@@ -69,6 +69,12 @@ button:hover{
         font-size: 0.7rem
     }
 
+    h3{
+        font-size: 14;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20px;
+    }
+
     .table {
         padding : 0px;
         width: 85%;
@@ -76,7 +82,7 @@ button:hover{
     }
 
     .table1{
-        width: 95%;
+        width: 100%;
         font-size: 13px
     }
   }
