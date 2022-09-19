@@ -52,7 +52,7 @@ button:hover{
     }
     
     .kopsurat {
-        width : 100%;
+        width : 80%;
         padding : 0px;
     }
     .judul {
@@ -60,9 +60,7 @@ button:hover{
         text-align: center;
 
     }
-        ol li {
-        font-size: 9px;
-    }
+
     td {
         font-size: 0.7rem
     }
