@@ -7,7 +7,6 @@ body{
     padding: 20px;
     margin: 0 auto;
     background-color: white;
-
 }
 
 .judul{
@@ -23,6 +22,8 @@ body{
     background-color: lightgoldenrodyellow ;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
+    display: flex;
+    flex-direction: column;
 }
 
 button {
@@ -70,7 +71,6 @@ button:hover{
     .inpo{
         font-size: 14;
         font-family: 'Times New Roman', Times, serif;
-        padding: 20px;
     }
 
     .table {
