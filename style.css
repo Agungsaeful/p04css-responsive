@@ -45,7 +45,7 @@ button:hover{
     letter-spacing: 2px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 380px) {
     body {
         margin: 0;
         padding: 0;
@@ -55,21 +55,29 @@ button:hover{
         width : 100%;
         padding : 0px;
     }
+
     .judul {
         font-size: 1rem;
         text-align: center;
 
     }
     ol li {
-        font-size: 15px;
+        font-size: 13px;
     }
+
     td {
         font-size: 0.7rem
     }
+
     .table {
         padding : 0px;
         width: 85%;
         font-size: 13px;
+    }
+
+    .table1{
+        width: 85%;
+        font-size: 13px
     }
   }
 
