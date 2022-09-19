@@ -61,14 +61,15 @@ button:hover{
 
     }
     ol li {
-        font-size: 18px;
+        font-size: 15px;
     }
     td {
         font-size: 0.7rem
     }
     .table {
         padding : 0px;
-        width: 95%;
+        width: 85%;
+        font-size: 13px;
     }
   }
 
