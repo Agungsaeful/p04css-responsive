@@ -95,7 +95,6 @@ body {
 @media screen and (max-width: 800px) {
   .kopsurat {
     width: 75%;
-    padding: 0;
   }
   .item-flex {
     flex-direction: column;
@@ -118,7 +117,6 @@ body {
   @media screen and (max-width: 380px) {
     .kopsurat {
       width: 100%;
-      padding: 0;
     }
     .item-flex {
       flex-direction: column;
