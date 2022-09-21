@@ -93,7 +93,7 @@ body {
   }
 
 @media screen and (max-width: 800px) {
-  .container {
+  .kopsurat {
     width: 75%;
     padding: 0;
   }
@@ -115,8 +115,8 @@ body {
   }
 }
 
-  @media screen and (max-width: 420px) {
-    .container {
+  @media screen and (max-width: 380px) {
+    .kopsurat {
       width: 100%;
       padding: 0;
     }
